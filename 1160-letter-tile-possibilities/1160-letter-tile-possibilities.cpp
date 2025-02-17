@@ -1,7 +1,8 @@
 class Solution {
 public:
 set<string> st;
-map<int,int> mp;
+// map<int,int> mp;
+vector<int> mp;
 void find(string &tiles,string &p,int i){
 if(i>=tiles.size()){
     st.insert(p);
@@ -24,6 +25,7 @@ p.pop_back();
 }
     int numTilePossibilities(string tiles) {
        string s="";
+       mp.resize(tiles.size(),0);
         find(tiles,s,0);
         return st.size()-1;
     }
