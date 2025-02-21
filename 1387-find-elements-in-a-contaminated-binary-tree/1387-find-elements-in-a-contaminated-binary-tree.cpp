@@ -14,26 +14,27 @@ public:
 TreeNode* root;
 // vector<int> elem;
 // map<int,int> mp;
-vector<bool> v;
+// vector<bool> v;
+unordered_set<int> v;
 void traverse(TreeNode* root,int val){
     if(root==NULL) return ;
    
         traverse(root->left,val*2+1);
         traverse(root->right,val*2+2);
         if(val<=1e6)
-        v[val]=true;
+        v.insert(val);
 
    
 }
     FindElements(TreeNode* root) {
-        v.resize(1e6+1,false);
+        // v.resize(1e6+1,false);
         root=root;
         traverse(root,0);
 
     }
     
     bool find(int target) {
-        return v[target];
+        return v.count(target);
     }
 };
 
