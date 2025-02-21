@@ -15,14 +15,16 @@ TreeNode* root;
 // vector<int> elem;
 // map<int,int> mp;
 // vector<bool> v;
-unordered_set<int> v;
+// unordered_set<int> v;
+bitset<1048576> b1; 
 void traverse(TreeNode* root,int val){
     if(root==NULL) return ;
    
         traverse(root->left,val*2+1);
         traverse(root->right,val*2+2);
-        if(val<=1e6)
-        v.insert(val);
+        // if(val<=1e6)
+        // v.insert(val);
+        b1.set(val);
 
    
 }
@@ -34,7 +36,7 @@ void traverse(TreeNode* root,int val){
     }
     
     bool find(int target) {
-        return v.count(target);
+        return b1[target];
     }
 };
 
