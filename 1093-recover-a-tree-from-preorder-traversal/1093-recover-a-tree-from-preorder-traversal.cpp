@@ -1,69 +1,38 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     TreeNode* recoverFromPreorder(string traversal) {
-          int i=0;
-           string p;
-           int n=traversal.size();
-         while(i<n&&traversal[i]!='-'){
-                    p.push_back(traversal[i]);
-                    i++;
-                }
-                // cout<<i<<endl;
-                 int q;
-                if(p!="")
-                q=stoi(p);
-               
-        TreeNode* root=new TreeNode(q);
-        map<int,TreeNode*> mp;
-        mp[0]=root;
-      
-        int d=0;
-        while(i<n){
-            int c=0;
-            while(i<n&&traversal[i]=='-'){ c++;i++;}
-            // cout<<i<<endl;
-            TreeNode* node=mp[c-1];
-            TreeNode* nd;
-            if(node->left==NULL){
-                string p;
-                while(i<n&&traversal[i]!='-'){
-                    p.push_back(traversal[i]);
-                    i++;
-                }
-                 int q;
-                if(p!="")
-               q=stoi(p);
-                nd=new TreeNode(q);
-                node->left=nd;
+        int i = 0, n = traversal.size();
+        map<int, TreeNode*> mp;  // Stores the latest node at each depth
 
+        while (i < n) {
+            int depth = 0;
+            while (i < n && traversal[i] == '-') {  // Count dashes (depth)
+                depth++;
+                i++;
             }
-            else{
-                    string p;
-                while(i<n&&traversal[i]!='-'){
-                    p.push_back(traversal[i]);
-                    i++;
+
+            string valStr;
+            while (i < n && isdigit(traversal[i])) {  // Extract number
+                valStr.push_back(traversal[i]);
+                i++;
+            }
+
+            int val = stoi(valStr);  // Convert extracted number
+            TreeNode* newNode = new TreeNode(val);
+
+            if (depth == 0) {  // Root node
+                mp[0] = newNode;
+            } else {
+                TreeNode* parent = mp[depth - 1];  // Get parent node
+                if (!parent->left) {
+                    parent->left = newNode;
+                } else {
+                    parent->right = newNode;
                 }
-                 int q;
-                if(p!="")
-               q=stoi(p);
-                nd=new TreeNode(q);
-                node->right=nd;
             }
-            mp[c]=nd;
-            
+            mp[depth] = newNode;  // Update latest node at this depth
         }
-        return root;
 
+        return mp[0];  // Return root node
     }
 };
