@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr) {
-        map<int ,int> mp;
+       vector<int> mp(2,0);
         long long sum=0;
         
         int ans=0;
