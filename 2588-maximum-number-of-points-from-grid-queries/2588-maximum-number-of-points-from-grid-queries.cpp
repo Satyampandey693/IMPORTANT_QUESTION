@@ -22,14 +22,11 @@ public:
         int thre=arr[i][0];
         int ind =arr[i][1];
          int t=0;
-       while(!pq.empty()){
+       while(!pq.empty()&&pq.top().first<thre){
        
        int oi=pq.top().second.first;
        int oj=pq.top().second.second;
-       int num=pq.top().first;
-       if(num>=thre){
-          break;
-       }
+      
        pq.pop();
        t++;
           for(int k=0;k<4;k++){
