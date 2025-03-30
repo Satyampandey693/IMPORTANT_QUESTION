@@ -1,88 +1,108 @@
 class Solution {
-private:
-    int countDistinctPrimeFactors(int n) {
-        int count = 0;
-        if (n % 2 == 0) {
-            count++;
-            while (n % 2 == 0) {
-                n /= 2;
-            }
-        }
-
-        for (long long i = 3; i * i <= n; i += 2) {
-            if (n % i == 0) {
-                count++;
-                while (n % i == 0) {
-                    n /= i;
-                }
-            }
-        }
-        if (n > 1)
-            count++;
-        return count;
-    }
-
-    int modPow(int base, int exp, int mod) {
-        long long result = 1;
-        long long b = base % mod;
-        while (exp > 0) {
-            if (exp & 1) {
-                result = (result * b) % mod;
-            }
-            b = (b * b) % mod;
-            exp >>= 1;
-        }
-        return (int)result;
-    }
-
 public:
+#define  ll long long
+   vector<int> prime;
+   int mod=1e9+7;
+   void checkPrime(){
+     prime.resize(1e5+1,1);
+     for(int i=2;i<=1e5;i++){
+      prime[i]=i;
+     }
+    
+    for(int i=2;i*i<=1e5;i++){
+        if(prime[i]!=i)continue;
+        for(int j=i*i;j<=1e5;j+=i){
+            prime[j]=i;
+        }
+
+    }
+
+   }
+   int noOfP(int n){
+   
+    int p=0;
+    set<int> st;
+   while(prime[n]!=1){
+     int r=n/prime[n];
+      st.insert(prime[n]);
+      n=r;
+     
+   }
+
+   return st.size();
+   }
+   int exponen(ll n,ll m){
+    ll a=1;
+    while(m){
+     if(m&1){
+        a=(a*1ll*n)%mod;
+        m--;
+     }
+     else{
+        n=(n*n)%mod;
+        m/=2;
+     }
+    }
+    return a;
+   }
     int maximumScore(vector<int>& nums, int k) {
-        int n = (int)nums.size();
-        if (n == 0)
-            return 1;
+        int n=nums.size();
+       vector<int> pr(n);
+       checkPrime();
+       priority_queue<pair<int,int>> pq;
 
-        priority_queue<pair<int, int>> maxValues;
-        vector<int> rightLarge(n, n), LeftLarge(n, -1), primeScores(n, 0);
-        stack<int> st, reverse;
-
-        for (int i = 0; i < n; i++) {
-            primeScores[i] = countDistinctPrimeFactors(nums[i]);
-            maxValues.emplace(nums[i], i);
-        }
-
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && primeScores[i] > primeScores[st.top()]) {
-                rightLarge[st.top()] = i;
+       for(int i=0;i<nums.size();i++){
+        int np=noOfP(nums[i]);
+        pr[i]=np;
+        // cout<<pr[i]<<" ";
+        pq.push({nums[i],i});
+       }
+       vector<int> leftgr(n);
+       vector<int> rightgr(n);
+       int i=n-1;
+       stack<int> st;
+       while(i>=0){
+             while(!st.empty()&&pr[st.top()]<=pr[i]){
                 st.pop();
-            }
-            st.push(i);
-        }
+             }
+             if(!st.empty())
+             rightgr[i]=st.top()-i;
+             else rightgr[i]=n-i;
+             
+             st.push(i);
 
-        for (int i = n - 1; i >= 0; i--) {
-            while (!reverse.empty() &&
-                   primeScores[i] >= primeScores[reverse.top()]) {
-                LeftLarge[reverse.top()] = i;
-                reverse.pop();
-            }
-            reverse.push(i);
-        }
+             i--;
+       }
+       while(!st.empty()){
+        st.pop();
+       }
+       i=0;
+       while(i<n){
+        while(!st.empty()&&pr[st.top()]<pr[i]){
+                st.pop();
+             }
+             if(!st.empty())
+             leftgr[i]=i-st.top();
+             else leftgr[i]=i+1;
 
-        int score = 1;
-        const int MODULE = 1000000007;
 
-        while (!maxValues.empty() && k > 0) {
-            auto [val, idx] = maxValues.top();
-            maxValues.pop();
-
-            long long t =
-                1LL * (rightLarge[idx] - idx) * (idx - LeftLarge[idx]);
-            long long steps = min(t, (long long)k);
-
-            int multiply = modPow(val, (int)steps, MODULE);
-            score = (int)((1LL * score * multiply) % MODULE);
-
-            k -= steps;
-        }
-        return score % MODULE;
+             
+             st.push(i);
+             i++;
+       }
+   
+       ll ans=1;
+       ll nk=k;
+       while(nk){
+        int ind=pq.top().second;
+        int p=pq.top().first;
+        pq.pop();
+        ll t=0;
+        t=leftgr[ind]*1ll*rightgr[ind];
+               int mn=min(nk,t);
+        ans=(ans*exponen(p,mn))%mod;
+        nk-=mn;
+       }
+       return ans;
     }
 };
