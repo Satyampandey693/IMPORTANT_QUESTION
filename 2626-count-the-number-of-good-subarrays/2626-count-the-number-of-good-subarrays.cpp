@@ -20,7 +20,7 @@ ll pnc(ll p,ll q){
         int i=0;
         int j=0;
         int n=nums.size();
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         int r=0;
         while(i<n){
             // int t=mp[nums[i]];
