@@ -23,13 +23,14 @@ ll pnc(ll p,ll q){
         map<int,int> mp;
         int r=0;
         while(i<n){
-            int t=mp[nums[i]];
-          mp[nums[i]]++;
-           r+=(int)pnc(mp[nums[i]],2)-(int)pnc(t,2);
+            // int t=mp[nums[i]];
+         r+= mp[nums[i]]++;
+        //    r+=(int)pnc(mp[nums[i]],2)-(int)pnc(t,2);
            while(r>=k&&j<i){
-            int l=mp[nums[j]];
-            mp[nums[j]]--;
-             r+=(int)pnc(mp[nums[j]],2)-(int)pnc(l,2);
+            // int l=mp[nums[j]];
+            // mp[nums[j]]--;
+            //  r+=(int)pnc(mp[nums[j]],2)-(int)pnc(l,2);
+            r-=--mp[nums[j]];
              ans+=(n-i);
             //  cout<<i<<" ";
              j++;
