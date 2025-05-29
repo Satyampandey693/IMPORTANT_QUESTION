@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1206-corporate-flight-bookings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1206-corporate-flight-bookings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2249-count-the-hidden-sequences) |
