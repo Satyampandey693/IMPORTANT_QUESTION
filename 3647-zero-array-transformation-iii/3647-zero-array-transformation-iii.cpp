@@ -1,27 +1,29 @@
 class Solution {
 public:
-    static int maxRemoval(vector<int>& nums, vector<vector<int>>& queries) {
-        const int n=nums.size(), qz=queries.size();
-        vector<vector<int>> qEnd(n);
-        for(int i=0; i<qz; i++)
-            qEnd[queries[i][0]].push_back(queries[i][1]);
+    int maxRemoval(vector<int>& nums, vector<vector<int>>& queries) {
+        sort(queries.begin(), queries.end(),
+             [](const vector<int>& a, const vector<int>& b) {
+                 return a[0] < b[0];
+             });
 
-        priority_queue<int> pq;// max heap for ends of queries
-        // number of overlapping queries ending at i in line sweeping
-        vector<int> cntQ(n+1, 0);
-        int dec=0;
-        for(int i=0, j=0; i<n; i++){
-            const int x=nums[i];
-            dec+=cntQ[i];// current max possible number for decrementing
-            for(int j: qEnd[i])
-                pq.push(j);// push ends of queries starting at i
-            int k;
-            for(; x>dec && pq.size()>0 && (k=pq.top())>=i; dec++){
-                cntQ[k+1]--;
-                pq.pop();
+        priority_queue<int> heap;
+        vector<int> deltaArray(nums.size() + 1, 0);
+        int operations = 0;
+        for (int i = 0, j = 0; i < nums.size(); ++i) {
+            operations += deltaArray[i];
+            while (j < queries.size() && queries[j][0] <= i) {
+                heap.push(queries[j][1]);
+                ++j;
             }
-            if (x>dec) return -1;
+            while (operations < nums[i] && !heap.empty() && heap.top() >= i) {
+                operations += 1;
+                deltaArray[heap.top() + 1] -= 1;
+                heap.pop();
+            }
+            if (operations < nums[i]) {
+                return -1;
+            }
         }
-        return pq.size();
+        return heap.size();
     }
 };
