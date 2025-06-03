@@ -1,7 +1,8 @@
 class Solution {
 public:
     int maxCandies(vector<int>& status, vector<int>& candies, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& initialBoxes) {
-       unordered_map<int,int> bx;
+    //    unordered_map<int,int> bx;
+    vector<int> bx(1000+1,0);
         // map<int,int> k;
         queue<int> q;
         int ans=0;
@@ -17,8 +18,8 @@ public:
           q.pop();
           ans+=candies[i];
           for(auto j:keys[i]){
-            if(bx.find(j)!=bx.end()){
-                bx.erase(j);
+            if(bx[j]){
+                bx[j]=0;
                 q.push(j);
 
             }
