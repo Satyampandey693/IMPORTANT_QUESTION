@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxCandies(vector<int>& status, vector<int>& candies, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& initialBoxes) {
         map<int,int> bx;
-        map<int,int> k;
+        // map<int,int> k;
         queue<int> q;
         int ans=0;
         for(int i=0;i<initialBoxes.size();i++){
@@ -23,7 +23,7 @@ public:
 
             }
             else{
-                k[j]++;
+               status[j]=1;
             }
           }
           for(auto j:containedBoxes[i]){
@@ -31,13 +31,13 @@ public:
                 q.push(j);
                 continue;
             }
-            if(k.find(j)!=k.end()){
-                   q.push(j);
-                   k.erase(j);
-            }
-            else{
+            // if(k.find(j)!=k.end()){
+            //        q.push(j);
+            //        k.erase(j);
+            // }
+            // else{
                 bx[j]++;
-            }
+            // }
           }
     // cout<<ans<<" ";
         }
