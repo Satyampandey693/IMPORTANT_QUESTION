@@ -23,7 +23,8 @@ public:
     for(int i=0;i<word.size();i++){
         if(word[i]==p){
         string q=word.substr(i,l);
-            if(ans<q) ans=q;
+            // if(ans<q) ans=q;
+            ans=max(ans,q);
         }
     }
       return ans;
