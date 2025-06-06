@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3227-find-missing-and-repeated-values) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2681-put-marbles-in-bags) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3001-apply-operations-to-maximize-score) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3001-apply-operations-to-maximize-score) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Combinatorics
 |  |
 | ------- |
@@ -489,10 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2280-count-good-triplets-in-an-array) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2280-count-good-triplets-in-an-array) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
