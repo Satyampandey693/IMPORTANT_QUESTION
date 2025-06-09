@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0038-count-and-say) |
+| [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0368-largest-divisible-subset) |
+| [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0905-length-of-longest-fibonacci-subsequence) |
