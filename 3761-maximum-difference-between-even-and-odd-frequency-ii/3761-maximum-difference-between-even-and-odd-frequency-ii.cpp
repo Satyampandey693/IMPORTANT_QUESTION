@@ -23,18 +23,10 @@ public:
                 }
                 int p=0,q=1;
                 while(q<=n){
-                   
-                    //  int t=0;
-                    // if(!(f[q]%2)){
-                    //   t=2;
-                    // }
-                    // t+=(se[q]%2);
-                    while(q-p>=k && se[q]-se[p]>=2){
-                    //      int r=0;
-                    // if((f[p]%2)){
-                    //   r=2;
-                    // }
-                    // r+=(se[p]%2);
+                    //se[q]-se[p]>=2 this condition is for that second char freq in this range at least 2
+                    // because 0 also be considered as even but 0 freq is not considered here as even in this q 
+
+                    while(q-p>=k && se[q]-se[p]>=1){
                     int r=getStatus(f[p],se[p]);
                     par[r]=min(par[r],f[p]-se[p]);
                     p++;
