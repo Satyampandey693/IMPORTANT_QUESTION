@@ -4,14 +4,15 @@ public:
         // int c=0;
         // sort(nums.begin(),nums.end());
         int mx=*max_element(nums.begin(),nums.end());
-        vector<int> arr(mx+1,0);
+        // vector<int> arr(mx+1,0);
+        bitset<100001> arr;
          for(int i=0;i<nums.size();i++){
-               arr[nums[i]]++;
+               arr[nums[i]]=true;
         } 
         int c=0;
         int mn=INT_MAX;
         for(int i=0;i<mx+1;i++){
-            while(arr[i]==0){
+            while(!arr[i]){
                 i++;
                 continue;
             }
