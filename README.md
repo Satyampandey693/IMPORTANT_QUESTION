@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2681-put-marbles-in-bags) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3001-apply-operations-to-maximize-score) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3430-count-days-without-meetings) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2793-count-the-number-of-complete-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3218-find-number-of-coins-to-place-in-tree-nodes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3218-find-number-of-coins-to-place-in-tree-nodes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3629-total-characters-in-string-after-transformations-i) |
