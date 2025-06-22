@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
