@@ -7,8 +7,8 @@ public:
         }
         queue<pair<string,int>> q;
         q.push({beginWord,1});
-        map<string,int> b;
-        b[beginWord]++;
+        // map<string,int> b;
+        // b[beginWord]++;
         while(!q.empty()){
            string p=q.front().first;
            int c=q.front().second;
@@ -21,8 +21,8 @@ public:
                  char t=r[j];
                  r[j]=i+'a';
                 
-                 if(b.find(r)==b.end()&&(mp.find(r)!=mp.end())){
-                    b[r]++;
+                 if((mp.find(r)!=mp.end())){
+                    mp.erase(r);
                     q.push({r,c+1});
                  }
                  r[j]=t;
