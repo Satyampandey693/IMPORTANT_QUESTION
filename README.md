@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0768-partition-labels](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0038-count-and-say) |
+| [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0768-partition-labels) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
