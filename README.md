@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1656-count-good-triplets) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1500-count-largest-group) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2215-finding-3-digit-even-numbers) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2249-count-the-hidden-sequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2915-count-of-interesting-subarrays) |
