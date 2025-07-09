@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
