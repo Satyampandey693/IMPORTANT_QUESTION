@@ -8,9 +8,9 @@ public:
         for(int i=0;i<nums.size();i++){
             // mp[nums[i]]++;
             // while(!p.empty()&&p.front()<i-k+1) p.pop_front();
-           while (!p.empty() && nums[p.back()] < nums[i]) {
-    p.pop_back();
-}
+           while (!p.empty() && nums[p.back()] <= nums[i]) {
+          p.pop_back();
+            }
 
             p.push_back(i);
             while(!p.empty()&&p.front()<i-k+1) p.pop_front();
