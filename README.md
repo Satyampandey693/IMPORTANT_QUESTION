@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0954-maximum-sum-circular-subarray) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
