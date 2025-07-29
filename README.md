@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0135-candy) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
