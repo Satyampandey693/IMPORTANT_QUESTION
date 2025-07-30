@@ -23,6 +23,7 @@ mutex mtx;
         // printSecond() outputs "second". Do not change or remove this line.
         unique_lock<mutex> lock(mtx);
         cv1.wait(lock, [this] { return p1; }); 
+        lock.unlock();
         printSecond();
         p2=true;
         cv2.notify_one();
@@ -35,6 +36,7 @@ mutex mtx;
     //    lock_guard<mutex> lock(m);
      unique_lock<mutex> lock(mtx);
         cv2.wait(lock, [this] { return p2; }); 
+        lock.unlock();
     // cv2.wait(p2);
         printThird();
     }
