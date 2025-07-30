@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0768-partition-labels) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -502,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1093-recover-a-tree-from-preorder-traversal) |
