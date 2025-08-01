@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0239-sliding-window-maximum) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
