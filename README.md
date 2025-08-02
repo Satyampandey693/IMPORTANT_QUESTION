@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0868-push-dominoes) |
