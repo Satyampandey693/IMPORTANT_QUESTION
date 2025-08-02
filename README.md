@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0797-rabbits-in-forest) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
