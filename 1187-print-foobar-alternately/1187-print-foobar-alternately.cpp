@@ -2,7 +2,7 @@ class FooBar {
 private:
     int n;
     bool p1=true,p2=false;
-condition_variable cv1,cv2;
+condition_variable cv,cv2;
 mutex mtx;
 
 public:
@@ -16,12 +16,12 @@ public:
             
         	// printFoo() outputs "foo". Do not change or remove this line.
              unique_lock<mutex> lock(mtx);
-        cv1.wait(lock, [this] { return p1; }); 
+        cv.wait(lock, [this] { return p1; }); 
         // lock.unlock();
         printFoo();
         p1=false;
         p2=true;
-        cv2.notify_one();
+        cv.notify_one();
         	
         }
     }
@@ -32,12 +32,12 @@ public:
             
         	// printBar() outputs "bar". Do not change or remove this line.
              unique_lock<mutex> lock(mtx);
-        cv2.wait(lock, [this] { return p2; }); 
+        cv.wait(lock, [this] { return p2; }); 
         // lock.unlock();
         printBar();
         p1=true;
         p2=false;
-        cv1.notify_one();
+        cv.notify_one();
         	
         }
     }
