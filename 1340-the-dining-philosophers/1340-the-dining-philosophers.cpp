@@ -15,21 +15,35 @@ public:
                     function<void()> eat,
                     function<void()> putLeftFork,
                     function<void()> putRightFork) {
+                        if(p%5==0)
                         {
-                            lock_guard<mutex> lc(m);
-                             sem_wait(&pick[(p+1)%5]);
-                            sem_wait(&pick[p]);
+                            sem_wait(&pick[(p+1)%5]);
+                           
                             
-
-                        }
-                        pickLeftFork(); 
+                         sem_wait(&pick[p]);
+                          pickLeftFork(); 
                         pickRightFork();
-                        eat();
+                         eat();
                         putLeftFork();
                         sem_post(&pick[(p+1)%5]);
                          
                         putRightFork();
                          sem_post(&pick[p]);
+                        }
+                        else{
+                         sem_wait(&pick[p]);
+                          sem_wait(&pick[(p+1)%5]);
+                          
+                        pickRightFork();
+                         pickLeftFork(); 
+                          eat();
+                        putRightFork();
+                         sem_post(&pick[p]);
+                          putLeftFork();
+                        sem_post(&pick[(p+1)%5]);
+                        }
+                       
+                       
                            
 
 
