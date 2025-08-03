@@ -831,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1203-print-in-order) |
+| [1340-the-dining-philosophers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1340-the-dining-philosophers) |
 ## Brainteaser
 |  |
 | ------- |
