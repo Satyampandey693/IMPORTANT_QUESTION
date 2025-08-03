@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1646-kth-missing-positive-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1656-count-good-triplets) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1813-maximum-erasure-value) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1646-kth-missing-positive-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
