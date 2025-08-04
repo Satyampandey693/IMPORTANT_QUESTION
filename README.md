@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0797-rabbits-in-forest) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0647-palindromic-substrings) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1350-remove-sub-folders-from-the-filesystem) |
