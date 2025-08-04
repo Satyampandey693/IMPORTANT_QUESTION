@@ -18,33 +18,71 @@ public:
             list1=list2;
             list2=p;
         }
-        ListNode* cur1=list1;
-        ListNode* cur2=list2;
-        // while(cur1!=NULL){
+        // ListNode* cur1=list1;
+        // ListNode* cur2=list2;
+        // // while(cur1!=NULL){
+
+        // // }
+        // ListNode* prev=cur1;
+        // ListNode* pr=NULL;
+        // while(cur2!=NULL&&cur1!=NULL){
+            
+        //     while(cur1!=NULL&&cur1->val<=cur2->val){
+        //         pr=cur1;
+        //         cur1=cur1->next;
+        //         // cur2=cur2->next;
+
+        //     }
+
+        //     pr->next=cur2;
+        //     ListNode* nx=cur2->next;
+        //     cur2->next=cur1;
+        //     cur1=cur2;
+        //     prev=cur2;
+        //     cur2=nx;
 
         // }
-        ListNode* prev=cur1;
-        ListNode* pr=NULL;
-        while(cur2!=NULL&&cur1!=NULL){
-            
-            while(cur1!=NULL&&cur1->val<=cur2->val){
-                pr=cur1;
-                cur1=cur1->next;
-                // cur2=cur2->next;
-
+        // if(cur2!=NULL){
+        //      prev->next=cur2;
+        // }
+        // return list1;
+        ListNode* head=new ListNode(101);
+         ListNode* cur1=list1;
+        ListNode* cur2=list2;
+        ListNode* cur=head;
+        while(cur1!=NULL&&cur2!=NULL){
+            if(cur1->val<cur2->val){
+                ListNode* nx=cur1->next;
+                 cur->next=cur1;
+                 cur1->next=NULL;
+                 cur1=nx;
             }
-
-            pr->next=cur2;
-            ListNode* nx=cur2->next;
-            cur2->next=cur1;
-            cur1=cur2;
-            prev=cur2;
-            cur2=nx;
-
+            else{
+                 ListNode* nx=cur2->next;
+                 cur->next=cur2;
+                 cur2->next=NULL;
+                 cur2=nx;
+            }
+            cur=cur->next;
         }
-        if(cur2!=NULL){
-             prev->next=cur2;
+        while(cur1!=NULL){
+             ListNode* nx=cur1->next;
+                 cur->next=cur1;
+                 cur1->next=NULL;
+                 cur1=nx;
+                 cur=cur->next;
         }
-        return list1;
+        while(cur2!=NULL){
+             ListNode* nx=cur2->next;
+                 cur->next=cur2;
+                 cur2->next=NULL;
+                 cur2=nx;
+                 cur=cur->next;
+        }
+        ListNode* nx=head->next;
+        head->next=NULL;
+        return nx;
+
+
     }
 };
