@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2050-count-good-numbers) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0141-linked-list-cycle) |
