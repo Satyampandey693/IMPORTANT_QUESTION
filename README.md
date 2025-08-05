@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0169-majority-element) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0169-majority-element) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
 | [0368-largest-divisible-subset](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0647-palindromic-substrings) |
@@ -825,12 +829,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
