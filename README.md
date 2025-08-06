@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0075-sort-colors) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0216-combination-sum-iii) |
