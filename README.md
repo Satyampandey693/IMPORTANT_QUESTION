@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0090-subsets-ii) |
