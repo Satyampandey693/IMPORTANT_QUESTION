@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0090-subsets-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1993-sum-of-all-subset-xor-totals) |
