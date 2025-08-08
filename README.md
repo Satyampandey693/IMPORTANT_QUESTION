@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0208-implement-trie-prefix-tree) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
@@ -924,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0826-soup-servings) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
