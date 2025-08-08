@@ -95,7 +95,7 @@ public:
                 minFreq++;
             }
         } else {
-            if (sz == capacity) {
+            if (keyMap.size() == capacity) {
                 // Evict LRU from minFreq list
                 Node* lru = freqList[minFreq].first->next;
                 int delKey = lru->key;
