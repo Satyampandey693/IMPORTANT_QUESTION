@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0169-majority-element) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0647-palindromic-substrings) |
