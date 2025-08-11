@@ -19,20 +19,20 @@ ll pow(ll n,  ll p) {
     vector<int> productQueries(int n, vector<vector<int>>& queries) {
        vector<int> arr;
        while(n){
-        int p=log2(n);
+        int p=__builtin_ctz(n);
         int r=(1<<p);
         n=n-r;
         arr.push_back(r);
        }
        vector<int> ans;
-       
-       sort(arr.begin(),arr.end());
-       cout<<arr[0]<<" ";
+       reverse(ans.begin(),ans.end());
+    //    sort(arr.begin(),arr.end());
+    //    cout<<arr[0]<<" ";
        for(int i=1;i<arr.size();i++){
         // cout<<arr[i]<<" ";
         int p=(arr[i-1]*1ll*arr[i])%mod;
         arr[i]=p;
-        cout<<arr[i]<<" ";
+        // cout<<arr[i]<<" ";
        }
        for(int i=0;i<queries.size();i++){
         int a=queries[i][1];
