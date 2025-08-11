@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1656-count-good-triplets) |
+| [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0239-sliding-window-maximum) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2434-design-a-number-container-system](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2434-design-a-number-container-system) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2793-count-the-number-of-complete-components) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0945-snakes-and-ladders) |
+| [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3227-find-missing-and-repeated-values) |
@@ -742,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -793,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
