@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0945-snakes-and-ladders](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0945-snakes-and-ladders) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -818,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
