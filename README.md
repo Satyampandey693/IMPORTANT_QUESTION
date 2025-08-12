@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2793-count-the-number-of-complete-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2793-count-the-number-of-complete-components) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2439-longest-cycle-in-a-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2439-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
