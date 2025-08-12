@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -973,4 +976,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0460-lfu-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
