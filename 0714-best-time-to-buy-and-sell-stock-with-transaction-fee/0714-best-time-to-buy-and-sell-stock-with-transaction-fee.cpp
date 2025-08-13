@@ -17,22 +17,41 @@ int find(int i,vector<int> &prices,int buy,vector<vector<int>> &dp,int fee){
 }
     int maxProfit(vector<int>& prices, int fee) {
         int n=prices.size();
-        vector<vector<int>> dp(prices.size()+1,vector<int>(2,0));
-        // return find(0,prices,1,dp,fee); 
-        for(int i=n-1;i>=0;i--){
+        // vector<vector<int>> dp(prices.size()+1,vector<int>(2,0));
+    //     for(int i=n-1;i>=0;i--){
+    //         for(int buy=0;buy<=1;buy++){
+    //            int profit=INT_MIN;
+    // //buy
+    // if(buy){
+    //   profit=max(-prices[i]+dp[i+1][0],dp[i+1][buy]);
+
+    // }
+    // else{
+    //     profit=max(prices[i]-fee+dp[i+1][1],dp[i+1][0]);
+    // }
+    //  dp[i][buy]=profit;
+    //         }
+    //     }
+    //     return dp[0][1];
+vector<int> prev(2,0);
+vector<int> now(2,0);
+
+      for(int i=n-1;i>=0;i--){
             for(int buy=0;buy<=1;buy++){
                int profit=INT_MIN;
     //buy
     if(buy){
-      profit=max(-prices[i]+dp[i+1][0],dp[i+1][buy]);
+      profit=max(-prices[i]+prev[0],prev[buy]);
 
     }
     else{
-        profit=max(prices[i]-fee+dp[i+1][1],dp[i+1][0]);
+        profit=max(prices[i]-fee+prev[1],prev[0]);
     }
-     dp[i][buy]=profit;
+     now[buy]=profit;
             }
+            prev=now;
         }
-        return dp[0][1];
+        return prev[1];
+
     }
 };
