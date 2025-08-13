@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0215-kth-largest-element-in-an-array) |
