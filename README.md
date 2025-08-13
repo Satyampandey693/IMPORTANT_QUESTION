@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0594-longest-harmonious-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0797-rabbits-in-forest) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0135-candy) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0826-soup-servings) |
