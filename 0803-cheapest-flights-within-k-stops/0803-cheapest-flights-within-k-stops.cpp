@@ -39,6 +39,7 @@ public:
                 int u=edges[j][0];
                 int v=edges[j][1];
                 int w=edges[j][2];
+                if(dis[u]!=1e9)
                newDis[v]=min(newDis[v],dis[u]+w);
             }
             dis=newDis;
