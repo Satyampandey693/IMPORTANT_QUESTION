@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0867-new-21-game) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
