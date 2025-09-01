@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0045-jump-game-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0051-n-queens) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
