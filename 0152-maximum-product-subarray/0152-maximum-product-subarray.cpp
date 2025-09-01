@@ -17,7 +17,7 @@ public:
                if(mx<0&&f==0) f=mx;
                if(mx==0){
                  f=mx;
-                mx=1;
+                  mx=1;
                
                }
               
