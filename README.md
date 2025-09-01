@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0342-power-of-four) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0342-power-of-four) |
