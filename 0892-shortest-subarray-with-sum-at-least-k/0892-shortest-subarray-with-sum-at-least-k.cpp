@@ -27,13 +27,13 @@ public:
              minLen = min(minLen, i - dq.front());
            dq.pop_front(); 
         }
-        while(!dq.empty()&&prefixSum[i]<=prefixSum[dq.front()] ) dq.pop_front();
+        // while(!dq.empty()&&prefixSum[i]<=prefixSum[dq.front()] ) dq.pop_front();
         // if(!dq.empty()&&prefixSum[i]<=prefixSum[dq.front()])
-        if(dq.empty())dq.push_front(i);
-        else{
+        // if(dq.empty())dq.push_front(i);
+        // else{
             while(!dq.empty()&&prefixSum[i]<=prefixSum[dq.back()] ) dq.pop_back();
             dq.push_back(i);
-        }
+        // }
 
     }
 
