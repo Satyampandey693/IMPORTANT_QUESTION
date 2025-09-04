@@ -14,26 +14,10 @@ int find(vector<int> &p){
     mn=min(mn,p[i]);
     i--;
    }
-//    vector<int> rss(n,-1);
-//    i=0;
 
-//   while(!st.empty()) st.pop();
-// while(i<n){
-//     while(!st.empty()&&p[st.top()]>p[i]) st.pop();
-//     if(!st.empty()) rss[i]=st.top();
-//     st.push(i);
-//     // mn=min(mn,p[i]);
-//     i++;
-//    }
    int t=0;
    vector<int> tot(n,0);
 for(int i=n-1;i>=0;i--){
-     
-    // int mn=p[i];
-    // for(int j=i;j<n;j++){
-    //     t+=min(p[j],mn);
-    //     mn=min(mn,p[j]);
-    // }
     int q=0;
     int nx=lss[i];
     q+=(nx-i)*p[i];
