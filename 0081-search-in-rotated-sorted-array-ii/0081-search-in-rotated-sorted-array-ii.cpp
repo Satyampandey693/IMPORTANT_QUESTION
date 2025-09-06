@@ -8,8 +8,8 @@ public:
         // int st=0;
         // int l=n-1;
         while(s<=e){
-            if(nums[mid]==target) return true;
-            if(nums[mid]==nums[s]&&nums[mid]==nums[e]){
+            if(nums[mid]==target||nums[s]==target||nums[e]==target) return true;
+            if(nums[s]==nums[e]){
             s++;
             e--;
             mid=s+(e-s)/2;
