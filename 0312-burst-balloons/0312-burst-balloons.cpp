@@ -14,12 +14,27 @@ int find(int i,int j,vector<int> &nums, vector<vector<int>> &dp){
    }
     int maxCoins(vector<int>& nums) {
         //  sort(cuts.begin(),cuts.end());
+        int n=nums.size();
         vector<int> nc;
         nc.push_back(1);
         // nc.insert(cuts.begin(),cuts.end(),nc.end());
         for(int i=0;i<nums.size();i++) nc.push_back(nums[i]);
         nc.push_back(1);
-        vector<vector<int>> dp(nums.size()+1,vector<int>(nums.size()+1,-1));
-       return  find(1,nc.size()-2,nc,dp);
+       
+        vector<vector<int>> dp(nums.size()+2,vector<int>(nums.size()+2,0));
+        //  nums=nc;
+    //    return  find(1,nc.size()-2,nc,dp);
+    
+    for(int i=n;i>0;i--){
+        for(int j=i;j<=n;j++){
+             int mn=0;
+    for(int k=i;k<=j;k++){
+        int p=(nc[k]*nc[j+1]*nc[i-1])+dp[i][k-1]+dp[k+1][j];
+        mn=max(mn,p);
+    }
+     dp[i][j]=mn; 
+        }
+    }
+    return dp[1][n];
     } 
 };
