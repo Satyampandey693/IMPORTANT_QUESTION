@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0342-power-of-four) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3201-distribute-candies-among-children-ii) |
