@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1656-count-good-triplets) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1813-maximum-erasure-value) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
