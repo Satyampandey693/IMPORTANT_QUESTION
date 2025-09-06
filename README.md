@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0118-pascals-triangle) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0733-flood-fill) |
