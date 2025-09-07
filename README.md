@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
