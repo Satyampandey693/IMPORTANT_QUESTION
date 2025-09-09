@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0954-maximum-sum-circular-subarray) |
+| [1170-shortest-common-supersequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1402-count-square-submatrices-with-all-ones) |
