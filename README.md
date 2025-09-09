@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0139-word-break) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0131-palindrome-partitioning) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0867-new-21-game) |
