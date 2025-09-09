@@ -21,24 +21,41 @@ public:
         //     }
         // }
         // return ans;
-        if(k<arr[0]) return k;
-        int p=arr[0]-1;
-        int c=p;
-        int ans=0;
-        for(int i=1;i<arr.size();i++){
-            p=arr[i]-arr[i-1]-1;
-            if(c+p>=k){
-                int r=k-c;
-                ans=arr[i-1]+r;
-                c=k+11;
-                break;
+        // if(k<arr[0]) return k;
+        // int p=arr[0]-1;
+        // int c=p;
+        // int ans=0;
+        // for(int i=1;i<arr.size();i++){
+        //     p=arr[i]-arr[i-1]-1;
+        //     if(c+p>=k){
+        //         int r=k-c;
+        //         ans=arr[i-1]+r;
+        //         c=k+11;
+        //         break;
+        //     }
+        //     c+=p;
+        // }
+        // if(c<=k){
+        //     ans=arr[arr.size()-1]+(k-c);
+        // }
+        // return ans;
+        int n=arr.size();
+        int s=0;
+        int e=n-1;
+        int mid=s+(e-s)/2;
+        
+        while(s<=e){
+            int c=arr[mid]-(mid+1);
+            if(c>=k){
+              e=mid-1;
             }
-            c+=p;
+            else{
+             s=mid+1;
+            }
+            mid=s+(e-s)/2;
         }
-        if(c<=k){
-            ans=arr[arr.size()-1]+(k-c);
-        }
-        return ans;
+        return s+k;;
+
 
     }
 };
