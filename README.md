@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
