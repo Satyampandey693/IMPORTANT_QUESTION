@@ -22,54 +22,48 @@ int sz;
     }
     
     int get(int key) {
-        if(mp.find(key)!=mp.end()){
-            int val=mp[key]->val;
-            remove(mp[key]);
-            insert(key,val);
-            Node* node=mp[key];
-           int va= node->val;
-            // delete node;
-            return va;
+       if(mp.find(key)!=mp.end()){
+        int val=mp[key]->val;
+        remove(mp[key]);
+        insert(key,val);
+        return val;
 
-        }
-        return -1;
+       }
+       return -1;
     }
     private:
-    void  insert(int key,int va){
-        Node* node=new Node(key,va);
-        node->prev=end->prev;
-        end->prev->next=node;
-        end->prev=node;
-        node->next=end;
-        mp[key]=node;
-        //  mp.erase(key);
-        // return node;
+    void insert(int k,int v){
+        Node* n=new Node(k,v);
+        mp[k]=n;
+        end->prev->next=n;
+        n->prev=end->prev;
+        end->prev=n;
+        n->next=end;
+
     }
-    void remove(Node* node){
-      node->next->prev=node->prev;
-      node->prev->next=node->next;
-      node->prev=NULL;
-      node->next=NULL;
-      mp.erase(node->key);
-      delete node;
+    void remove(Node* nd){
+        // cout<<nd->key<<" "<<nd->prev->key<<" "<<nd->next->key;
+       nd->prev->next=nd->next;
+       nd->next->prev=nd->prev;
+       nd->prev=NULL;
+       nd->next=NULL;
+       mp.erase(nd->key);
+       delete nd;
     }
+   
     public:
     void put(int key, int value) {
-        if(mp.find(key)!=mp.end()){
-            Node* node=mp[key];
-           remove(mp[key]);
-        }
        
-
-        //  Node* newNode = new Node(key, value);
-        // mp[key] = newNode;
+        // mp[key]=node;
+        if(mp.find(key)!=mp.end()){
+            // sz--;
+            remove(mp[key]);
+        }
+        if(sz<=mp.size()){
+            remove(st->next);
+        }
         insert(key,value);
 
-        if (mp.size() > sz) {
-            Node* lru = st->next;
-            remove(lru);
-        }
-        // mp[key]=node;
     }
 };
 
