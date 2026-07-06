@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1628-count-submatrices-with-all-ones) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0232-implement-queue-using-stacks) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/0868-push-dominoes) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -903,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1753-path-with-minimum-effort) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Satyampandey693/IMPORTANT_QUESTION/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
